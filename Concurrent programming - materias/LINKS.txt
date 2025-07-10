@@ -1,0 +1,8 @@
+# Concurrent Programming with C++ - Bo Qian's tutorials on YouTube
+https://www.youtube.com/watch?v=LL8wkskDlbs&list=PL5jc9xFGsL8E12so1wlMS0r0hTQoJL74M
+
+# Why Are Threads Needed On Single Core Processors - Core Dumped's channel on YouTube
+https://www.youtube.com/watch?v=M9HHWFp84f0
+
+# Concurrency Vs Parallelism! - ByteByteGo's chanel on YouTube
+https://www.youtube.com/watch?v=RlM9AfWf1WU
